@@ -1,0 +1,28 @@
+{
+  "manifest_version": 2,
+
+  "name": "Can Opener",
+  "description": "Convenient opening of six consecutive digits",
+  "version": "1.0",
+
+  "permissions": [
+    "activeTab",
+    "https://*.reddit.com/*",
+    "https://reddit.com/*",
+    "contextMenus",
+    "tabs"
+  ],
+  "background": {
+    "scripts": [
+      "can-opener.js"
+    ]
+  },
+  "web_accessible_resources": [
+    "can-opener.js"
+  ],
+  "icons": {
+    "16": "can_16.png",
+    "48": "can_48.png",
+    "128": "can_128.png"
+  }
+}
