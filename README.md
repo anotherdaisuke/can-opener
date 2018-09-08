@@ -4,7 +4,7 @@
 
 Just select the digits, right click, and click "Open As Link" to conveniently open the sauce (in an Incognito tab)
 
-![visual explanation](https://i.imgur.com/5zXPagv.png "Visual Explanation")
+![visual explanation](https://i.imgur.com/0HSG5sT.png "Visual Explanation")
 
 
 # Security/Privacy
